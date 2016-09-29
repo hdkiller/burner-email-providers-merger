@@ -1,0 +1,13 @@
+fake-email.pp.ua
+jetable.pp.ua
+jetable.pp.ua
+web-mail.pp.ua
+stop-my-spam.pp.ua
+ass.pp.ua
+add3000.pp.ua
+ip4.pp.ua
+ip6.pp.ua
+mox.pp.ua
+loh.pp.ua
+yopmail.pp.ua
+get.pp.ua
